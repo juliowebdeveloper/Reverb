@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reverb</string>
+    <string name="menu_about">Sobre</string>
+    <string name="menu_exit">Sair</string>
+    <string name="tabs_mysongs">Músicas</string>
+    <string name="tabs_nowplaying">Reproduzindo</string>
+</resources>

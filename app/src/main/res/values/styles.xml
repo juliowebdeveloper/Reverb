@@ -1,0 +1,23 @@
+<resources>
+
+
+
+
+    <!--Tema que a aplicação irá usar e de onde ela está herdando-->
+    <style name="Base.AppTheme.NoActionBar" parent="Base.Theme.AppCompat">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textSize">15sp</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+
+
+
+
+</resources>
+
